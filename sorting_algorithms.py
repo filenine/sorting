@@ -7,6 +7,8 @@ def insertion_sort(numbers):
     """
     Takes a list of numbers and sorts them using insertion sort.
     The list is sorted in place.
+
+    Time complexity: big-theta n^2
     
     Input:
     numbers -> a list of numbers
